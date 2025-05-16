@@ -1,0 +1,54 @@
+/* *{
+  margin: 0;
+  padding: 0;
+}
+.update-form-page,.create-form-page{
+  height: 100vh;
+  width: 100vw;
+  background:linear-gradient(blue,black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.update-form,.create-form{
+  height: 400px;
+  width: 350px;
+  background-color: white;
+  padding: 25px;
+
+}
+.update-form label,.create-form label{
+  display: block;
+
+}
+
+.update-form input,.create-form input{
+  width: 100%;
+  height: 25px;
+}
+
+button{
+  width: 100%;
+  margin-top: 25px;
+  height: 35px;
+  font-size: 25px;
+  font-weight: 900;
+  background-color: rgb(75, 113, 238);
+}
+button:hover{
+  background-color: blue;
+  color: white;
+}
+.display-table{
+  height: 100vh;
+  width: 100vw;
+  background:linear-gradient(red,black);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.adddd{
+  width: 30%;
+} */
